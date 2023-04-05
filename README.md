@@ -54,6 +54,6 @@ Do any state's death patterns look like other state's case patterns?
 
 ## Time Series Clustering
 
-[tslearn](https://tslearn.readthedocs.io/en/stable/index.html is a Python package centered around time-series analysis. 
+[tslearn](https://tslearn.readthedocs.io/en/stable/index.html) is a Python package centered around time-series analysis. 
 Try installing `tslearn` and performing a [dynamic time warping](https://tslearn.readthedocs.io/en/stable/user_guide/clustering.html) k-means analysis.
 
